@@ -1,4 +1,4 @@
-Published to uneven-cryptope.surge.sh
+Published to - https://uneven-cryptope.surge.sh/
 
 # Basic Sample Hardhat Project
 
