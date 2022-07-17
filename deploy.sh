@@ -15,7 +15,8 @@ git checkout -b main
 git add -A
 git commit -m 'deploy'
 
-# deploying to https://prabal-007.github.io/cryptoPe
-git push -f git@github.com/prabal-007/cryptoPe.git main:gh-pages
+# if you are deploying to https://<USERNAME>.github.io
+git push -f git@github.com:prabal-007/prabal-007.github.io.git main
+
 
 cd -
